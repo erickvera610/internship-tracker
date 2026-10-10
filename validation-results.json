@@ -1,0 +1,210 @@
+{
+  "project": "internship-tracker",
+  "executed_at_utc": "2026-10-10T17:43:24.886672+00:00",
+  "kind": "actual automated validation using fictional or synthetic data",
+  "not_user_traffic": true,
+  "scenario_count": 10,
+  "passed": 10,
+  "results": [
+    {
+      "scenario": 1,
+      "input": {
+        "company": "Fictional Company 1",
+        "role": "Software Intern",
+        "status": "Saved",
+        "deadline": "2027-03-01"
+      },
+      "output_summary": {
+        "stored_records": 1,
+        "counts": {
+          "Saved": 1,
+          "Applied": 0,
+          "Interview": 0,
+          "Offer": 0,
+          "Closed": 0
+        }
+      },
+      "passed": true
+    },
+    {
+      "scenario": 2,
+      "input": {
+        "company": "Fictional Company 2",
+        "role": "ML Intern",
+        "status": "Applied",
+        "deadline": "2027-03-02"
+      },
+      "output_summary": {
+        "stored_records": 2,
+        "counts": {
+          "Saved": 1,
+          "Applied": 1,
+          "Interview": 0,
+          "Offer": 0,
+          "Closed": 0
+        }
+      },
+      "passed": true
+    },
+    {
+      "scenario": 3,
+      "input": {
+        "company": "Fictional Company 3",
+        "role": "Data Intern",
+        "status": "Interview",
+        "deadline": "2027-03-03"
+      },
+      "output_summary": {
+        "stored_records": 3,
+        "counts": {
+          "Saved": 1,
+          "Applied": 1,
+          "Interview": 1,
+          "Offer": 0,
+          "Closed": 0
+        }
+      },
+      "passed": true
+    },
+    {
+      "scenario": 4,
+      "input": {
+        "company": "Fictional Company 4",
+        "role": "Software Intern",
+        "status": "Offer",
+        "deadline": "2027-03-04"
+      },
+      "output_summary": {
+        "stored_records": 4,
+        "counts": {
+          "Saved": 1,
+          "Applied": 1,
+          "Interview": 1,
+          "Offer": 1,
+          "Closed": 0
+        }
+      },
+      "passed": true
+    },
+    {
+      "scenario": 5,
+      "input": {
+        "company": "Fictional Company 5",
+        "role": "ML Intern",
+        "status": "Closed",
+        "deadline": "2027-03-05"
+      },
+      "output_summary": {
+        "stored_records": 5,
+        "counts": {
+          "Saved": 1,
+          "Applied": 1,
+          "Interview": 1,
+          "Offer": 1,
+          "Closed": 1
+        }
+      },
+      "passed": true
+    },
+    {
+      "scenario": 6,
+      "input": {
+        "company": "Fictional Company 6",
+        "role": "Data Intern",
+        "status": "Saved",
+        "deadline": "2027-03-06"
+      },
+      "output_summary": {
+        "stored_records": 6,
+        "counts": {
+          "Saved": 2,
+          "Applied": 1,
+          "Interview": 1,
+          "Offer": 1,
+          "Closed": 1
+        }
+      },
+      "passed": true
+    },
+    {
+      "scenario": 7,
+      "input": {
+        "company": "Fictional Company 7",
+        "role": "Software Intern",
+        "status": "Applied",
+        "deadline": "2027-03-07"
+      },
+      "output_summary": {
+        "stored_records": 7,
+        "counts": {
+          "Saved": 2,
+          "Applied": 2,
+          "Interview": 1,
+          "Offer": 1,
+          "Closed": 1
+        }
+      },
+      "passed": true
+    },
+    {
+      "scenario": 8,
+      "input": {
+        "company": "Fictional Company 8",
+        "role": "ML Intern",
+        "status": "Interview",
+        "deadline": "2027-03-08"
+      },
+      "output_summary": {
+        "stored_records": 8,
+        "counts": {
+          "Saved": 2,
+          "Applied": 2,
+          "Interview": 2,
+          "Offer": 1,
+          "Closed": 1
+        }
+      },
+      "passed": true
+    },
+    {
+      "scenario": 9,
+      "input": {
+        "company": "Fictional Company 9",
+        "role": "Data Intern",
+        "status": "Offer",
+        "deadline": "2027-03-09"
+      },
+      "output_summary": {
+        "stored_records": 9,
+        "counts": {
+          "Saved": 2,
+          "Applied": 2,
+          "Interview": 2,
+          "Offer": 2,
+          "Closed": 1
+        }
+      },
+      "passed": true
+    },
+    {
+      "scenario": 10,
+      "input": {
+        "company": "Fictional Company 10",
+        "role": "Software Intern",
+        "status": "Closed",
+        "deadline": "2027-03-10"
+      },
+      "output_summary": {
+        "stored_records": 10,
+        "counts": {
+          "Saved": 2,
+          "Applied": 2,
+          "Interview": 2,
+          "Offer": 2,
+          "Closed": 2
+        }
+      },
+      "passed": true
+    }
+  ]
+}
