@@ -1,0 +1,33 @@
+{
+  "project": "internship-tracker",
+  "date_utc": "2026-10-16",
+  "executed_at_utc": "2026-10-16T16:38:23.056478+00:00",
+  "data_kind": "fictional/synthetic",
+  "execution_method": "Python script",
+  "seed": 20261016,
+  "input": {
+    "company": "Fictional Company 2026-10-16",
+    "role": "Software Intern",
+    "status": "Closed",
+    "deadline": "2027-03-17"
+  },
+  "output": {
+    "applications": [
+      {
+        "id": 1,
+        "company": "Fictional Company 2026-10-16",
+        "role": "Software Intern",
+        "status": "Closed",
+        "deadline": "2027-03-17"
+      }
+    ],
+    "counts": {
+      "Saved": 0,
+      "Applied": 0,
+      "Interview": 0,
+      "Offer": 0,
+      "Closed": 1
+    }
+  },
+  "completed": true
+}
