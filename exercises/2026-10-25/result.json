@@ -1,0 +1,33 @@
+{
+  "project": "internship-tracker",
+  "date_utc": "2026-10-25",
+  "executed_at_utc": "2026-10-25T16:16:36.789224+00:00",
+  "data_kind": "fictional/synthetic",
+  "execution_method": "Python script",
+  "seed": 20261025,
+  "input": {
+    "company": "Fictional Company 2026-10-25",
+    "role": "ML Intern",
+    "status": "Offer",
+    "deadline": "2027-03-25"
+  },
+  "output": {
+    "applications": [
+      {
+        "id": 1,
+        "company": "Fictional Company 2026-10-25",
+        "role": "ML Intern",
+        "status": "Offer",
+        "deadline": "2027-03-25"
+      }
+    ],
+    "counts": {
+      "Saved": 0,
+      "Applied": 0,
+      "Interview": 0,
+      "Offer": 1,
+      "Closed": 0
+    }
+  },
+  "completed": true
+}
