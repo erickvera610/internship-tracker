@@ -1,0 +1,33 @@
+{
+  "project": "internship-tracker",
+  "date_utc": "2026-10-30",
+  "executed_at_utc": "2026-10-30T17:59:34.241390+00:00",
+  "data_kind": "fictional/synthetic",
+  "execution_method": "Python script",
+  "seed": 20261030,
+  "input": {
+    "company": "Fictional Company 2026-10-30",
+    "role": "Data Intern",
+    "status": "Applied",
+    "deadline": "2027-03-18"
+  },
+  "output": {
+    "applications": [
+      {
+        "id": 1,
+        "company": "Fictional Company 2026-10-30",
+        "role": "Data Intern",
+        "status": "Applied",
+        "deadline": "2027-03-18"
+      }
+    ],
+    "counts": {
+      "Saved": 0,
+      "Applied": 1,
+      "Interview": 0,
+      "Offer": 0,
+      "Closed": 0
+    }
+  },
+  "completed": true
+}
